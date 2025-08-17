@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapter 1 - Introduction</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Chapter 1: Introduction</h1>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p>
+        Welcome to Chapter 1! This section introduces the main concepts you’ll
+        learn. We’ll cover the basics, explore key ideas, and prepare for the
+        deeper topics in later chapters.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 ismail | css Project</p>
+  </footer>
+</body>
+</html>
