@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter 3 Background</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="ch3-background">
+        <div class="ch3-content">
+            <h1>Welcome to Chapter 3</h1>
+            <p>This is a styled background for your CSS project.</p>
+        </div>
+    </div>
+</body>
+</html>
